@@ -1,5 +1,6 @@
 #snowflake-snowpark-python=1.24.0
 #streamlit=1.39.0
+snowflake-connector-python
 snowflake-snowpark-python
 streamlit
 requests
